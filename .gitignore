@@ -1,2 +1,3 @@
 *.OUT
 *.pkl
+.ipynb_checkpoints
